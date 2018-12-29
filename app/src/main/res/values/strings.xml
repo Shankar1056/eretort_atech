@@ -1,0 +1,66 @@
+<resources>
+	<string name="app_name">Atech Excel Solution</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="Next">Next</string>
+	<string name="Previous">Previous</string>
+	<string name="statement">Get Connected With Farmers Directly</string>
+	<string name="page1">we help consumer and retail to connect with farmers directly. Information are updated in real time by farmers themselves.</string>
+	<string name="page2">You can now take picture of your product and select the price you want to sell at and get instant calls from buyers.</string>
+	<string name="page3">You can now share best practices. Ask question, answer question and make right decisions.</string>
+	<string name="share">Share Your View Via Comment</string>
+	<string name="sell">Sell Item Anytime</string>
+	<string name="ab_grid_title">Stories to read</string>
+
+
+	<string name="ADMOB_APP_ID">ca-app-pub-2465859109991925~2543404189</string>
+	<string name="ADUNIT_ID">ca-app-pub-2465859109991925/6023360480</string>
+
+
+	<string name="navigation_drawer_open">Open navigation drawer</string>
+	<string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="upload">Upload</string>
+    <string name="postyouranswer">Post Your Answer</string>
+    <string name="notification">Notification</string>
+    <string name="notice_board">Notice Board</string>
+	<string name="timetable">Time Table</string>
+	<string name="dialyomework">Dialy Homework</string>
+	<string name="dialyquote">Dialy Quote</string>
+    <string name="newsevents"><![CDATA[News & Events]]></string>
+	<string name="emerency_news">Emergency News</string>
+	<string name="dorector_messae">Director Message</string>
+	<string name="exam_scedule">Exam Schedule</string>
+	<string name="dialy_message">Dialy Message</string>
+	<string name="contact_us">Contact Us</string>
+	<string name="text_profile">Profile </string>
+	<string name="text_question">Questions</string>
+	<string name="SciQuiz3">SciQuiz3</string>
+
+	<!--font-->
+	<string name="regular_font">fonts/ComicSansMS3.ttf</string>
+	<string name="bold_font">fonts/OpenSans-Bold.ttf</string>
+    <string name="your_ques">Type your question here...</string>
+    <string name="recommended">Recommended Question</string>
+	<string name="quoteofday">Quote of the day</string>
+    <string name="hint_email">Email</string>
+	<string name="hint_password">Password</string>
+    <string name="login">Login</string>
+    <string name="text_fullname">Full Name</string>
+	<string name="text_description">Description</string>
+	<string name="text_from">From</string>
+	<string name="text_to">to</string>
+	<string name="text_approver">Approver</string>
+	<string name="leave_appliction">Leave Application</string>
+    <string name="previous">Previous</string>
+	<string name="next">Next</string>
+    <string name="nointernet">No internet connection</string>
+	<string name="pleasewait">Please wait...</string>
+	<string name="questions">Question</string>
+    <string name="topperlist">Toppers List</string>
+	<string name="alumnilist">Alumni List</string>
+	<string name="gallery">Gallery</string>
+    <string name="hint_name">Name</string>
+	<string name="hint_message">Write your feedback</string>
+	<string name="submit">Submit</string>
+</resources>

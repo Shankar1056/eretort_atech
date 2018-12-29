@@ -1,0 +1,18 @@
+<resources>
+	<dimen name="fab_margin">16dp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+	<dimen name="margin_10">10dp</dimen>
+	<dimen name="margin_15">15dp</dimen>
+	<dimen name="margin_40">40dp</dimen>
+	<dimen name="margin_50">50dp</dimen>
+	<dimen name="margin_60">60dp</dimen>
+
+
+    <dimen name="textsize_small">12sp</dimen>
+	<dimen name="textsize_15">15sp</dimen>
+	<dimen name="textsize_10">10sp</dimen>
+	<dimen name="textsize_18">18sp</dimen>
+	<dimen name="textsize_medium">14sp</dimen>
+	<dimen name="textsize_large">18sp</dimen>
+	<dimen name="textsize_extralarge">20sp</dimen>
+</resources>
